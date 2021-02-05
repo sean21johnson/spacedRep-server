@@ -1,6 +1,6 @@
-# Spaced Repetition App - Server
+# Learn More - Spaced Repetition - Server
 
-[Live App](https://spaced-repetition-client-one.vercel.app)
+[Live App](https://spaced-repetition-client-one.vercel.app/register)
 
 [Client-side Repo](https://github.com/sean21johnson/spacedRep-client)
 
