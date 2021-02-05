@@ -1,6 +1,6 @@
 # Spaced Repetition App - Server
 
-[Live App]()
+[Live App](https://spaced-repetition-client-one.vercel.app)
 
 [Client-side Repo](https://github.com/sean21johnson/spacedRep-client)
 
@@ -9,6 +9,8 @@
 ### Learn Spanish with the spaced repetition technique!
 
 This application was created to help users learn Spanish using spaced repetition. Spaced repetition is a powerful learning technique with proven results. Users are presented words which they need to guess the translation for. For a given word, the more often you guess it right, the less often it will appear. And the more often you guess it wrong, the more often it will appear. This pattern helps users hone in on words they are having more trouble with. This process is accomplished using a linked list data structure in the server-side application. The client-side application also uses conditional rendering to show the users scores and the correct translation for a word after a user guess.
+
+---
 
 ### Tech Stack
 
